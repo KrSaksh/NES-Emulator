@@ -20,5 +20,3 @@ Developed a fully functional NES (Nintendo Entertainment System) emulator in C++
 - **Frameworks and Libraries:** olcPixelGameEngine
 - **Development Tools:** Visual Studio, Git
 - **Concepts:** Emulation, Systems Programming, Low-Level Programming, Memory Management, Real-Time Processing
-
----
