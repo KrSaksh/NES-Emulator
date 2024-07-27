@@ -1,5 +1,4 @@
 # NES-Emulator
-This repository contains all the information OneLoneCoder provided to make a NES Emulator.
 
 ---
 
